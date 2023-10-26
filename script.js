@@ -8,7 +8,7 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Kalank (Title Track)", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Kalank", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
     {songName: "Tum Hi Ho", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Apna Bana le", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Khairiyat", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
